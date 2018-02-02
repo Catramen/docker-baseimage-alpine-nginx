@@ -1,4 +1,4 @@
-FROM alpine
+FROM wjkcow/alpine-raspberrypi
 
 # install packages
 RUN \
